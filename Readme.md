@@ -39,7 +39,7 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 - [ ] 9.- Dado un **objeto** de nombre **Portatil** modifica el valor de la propiedad **modelo** por el valor **P345**
 
-- [ ] 10.- Dado un **objeto** de nombre **Concierto** añade el valor **Guns N' Roses** a la propiedad **cartelera**
+- [ ] 10.- Dado un **objeto** de nombre **Concierto** añade el valor **** a la propiedad **cartelera**
 
 - [ ] 11.- Dado un **objeto** de nombre **Concierto** modifica el valor de la propiedad **fecha** por el valor **new Date() (fecha de hoy)**
 
